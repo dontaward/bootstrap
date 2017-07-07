@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node_modules/.bin/httpster"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dontaward/bootstrap.git"
+  },
+  "author": "Jitendra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dontaward/bootstrap/issues"
+  },
+  "homepage": "https://github.com/dontaward/bootstrap#readme",
+  "devDependencies": {
+    "httpster": "^1.0.3"
+  }
+}
