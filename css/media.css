@@ -1,0 +1,23 @@
+@media(max-width: 768px) {
+	#header {
+		text-align: center;
+	}
+	#header img {
+		margin: 20% auto 0;
+	}
+	#social {
+		text-align: center;
+	}
+	#social hr, #who hr {
+		margin: 8% auto;
+	}
+	#who {
+		text-align: center;
+	}
+	#who img {
+		margin-top: 15%;
+	}
+	#footer {
+		text-align: center;
+	}
+}
